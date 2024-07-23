@@ -11,3 +11,6 @@ body {
   background: lavender;
   color: hotpink;
 }
+a {
+  font-family: 'courier';
+}
