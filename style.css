@@ -9,8 +9,17 @@ body {
   text-align: center;
   font-family: 'verdana';
   background: lavender;
+}
+h1 {
   color: hotpink;
 }
+h2{
+  color: pink
+}
+p {
+  color:magenta;
+}
 a {
+  color: purple;
   font-family: 'courier';
 }
